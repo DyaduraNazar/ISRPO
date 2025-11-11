@@ -1,0 +1,11 @@
+C:\Users\xotgo\source\repos\isrpo-pr4-shifrCHEHARA\isrpo-pr4-shifrCHEHARA\bin\Debug\isrpo-pr4-shifrCHEHARA.exe.config
+C:\Users\xotgo\source\repos\isrpo-pr4-shifrCHEHARA\isrpo-pr4-shifrCHEHARA\bin\Debug\isrpo-pr4-shifrCHEHARA.exe
+C:\Users\xotgo\source\repos\isrpo-pr4-shifrCHEHARA\isrpo-pr4-shifrCHEHARA\bin\Debug\isrpo-pr4-shifrCHEHARA.pdb
+C:\Users\xotgo\source\repos\isrpo-pr4-shifrCHEHARA\isrpo-pr4-shifrCHEHARA\obj\Debug\isrpo-pr4-shifrCHEHARA.csproj.AssemblyReference.cache
+C:\Users\xotgo\source\repos\isrpo-pr4-shifrCHEHARA\isrpo-pr4-shifrCHEHARA\obj\Debug\isrpo_pr4_shifrCHEHARA.Form1.resources
+C:\Users\xotgo\source\repos\isrpo-pr4-shifrCHEHARA\isrpo-pr4-shifrCHEHARA\obj\Debug\isrpo_pr4_shifrCHEHARA.Properties.Resources.resources
+C:\Users\xotgo\source\repos\isrpo-pr4-shifrCHEHARA\isrpo-pr4-shifrCHEHARA\obj\Debug\isrpo-pr4-shifrCHEHARA.csproj.GenerateResource.cache
+C:\Users\xotgo\source\repos\isrpo-pr4-shifrCHEHARA\isrpo-pr4-shifrCHEHARA\obj\Debug\isrpo-pr4-shifrCHEHARA.csproj.CoreCompileInputs.cache
+C:\Users\xotgo\source\repos\isrpo-pr4-shifrCHEHARA\isrpo-pr4-shifrCHEHARA\obj\Debug\isrpo-pr4-shifrCHEHARA.exe
+C:\Users\xotgo\source\repos\isrpo-pr4-shifrCHEHARA\isrpo-pr4-shifrCHEHARA\obj\Debug\isrpo-pr4-shifrCHEHARA.pdb
+C:\Users\xotgo\source\repos\isrpo-pr4-shifrCHEHARA\isrpo-pr4-shifrCHEHARA\obj\Debug\isrpo-pr4-shifrCHEHARA.exe.config
