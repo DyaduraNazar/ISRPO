@@ -1,0 +1,11 @@
+C:\Users\xotgo\source\repos\LuckyBILET\LuckyBILET\bin\Debug\LuckyBILET.exe.config
+C:\Users\xotgo\source\repos\LuckyBILET\LuckyBILET\bin\Debug\LuckyBILET.exe
+C:\Users\xotgo\source\repos\LuckyBILET\LuckyBILET\bin\Debug\LuckyBILET.pdb
+C:\Users\xotgo\source\repos\LuckyBILET\LuckyBILET\obj\Debug\LuckyBILET.csproj.AssemblyReference.cache
+C:\Users\xotgo\source\repos\LuckyBILET\LuckyBILET\obj\Debug\LuckyBILET.Form1.resources
+C:\Users\xotgo\source\repos\LuckyBILET\LuckyBILET\obj\Debug\LuckyBILET.Properties.Resources.resources
+C:\Users\xotgo\source\repos\LuckyBILET\LuckyBILET\obj\Debug\LuckyBILET.csproj.GenerateResource.cache
+C:\Users\xotgo\source\repos\LuckyBILET\LuckyBILET\obj\Debug\LuckyBILET.csproj.CoreCompileInputs.cache
+C:\Users\xotgo\source\repos\LuckyBILET\LuckyBILET\obj\Debug\LuckyBILET.exe
+C:\Users\xotgo\source\repos\LuckyBILET\LuckyBILET\obj\Debug\LuckyBILET.pdb
+C:\Users\xotgo\source\repos\LuckyBILET\LuckyBILET\obj\Debug\LuckyBILET.exe.config
