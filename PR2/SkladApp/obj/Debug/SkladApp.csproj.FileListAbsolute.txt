@@ -1,0 +1,11 @@
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR2\SkladApp\bin\Debug\SkladApp.exe.config
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR2\SkladApp\bin\Debug\SkladApp.exe
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR2\SkladApp\bin\Debug\SkladApp.pdb
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR2\SkladApp\obj\Debug\SkladApp.csproj.AssemblyReference.cache
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR2\SkladApp\obj\Debug\SkladApp.Sklad.resources
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR2\SkladApp\obj\Debug\SkladApp.Properties.Resources.resources
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR2\SkladApp\obj\Debug\SkladApp.csproj.GenerateResource.cache
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR2\SkladApp\obj\Debug\SkladApp.csproj.CoreCompileInputs.cache
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR2\SkladApp\obj\Debug\SkladApp.exe
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR2\SkladApp\obj\Debug\SkladApp.pdb
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR2\SkladApp\obj\Debug\SkladApp.exe.config

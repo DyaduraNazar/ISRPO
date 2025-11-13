@@ -1,0 +1,32 @@
+D:\Коржилов\Матющенко\Практическая №1\SupermarketApp\bin\Debug\SupermarketApp.exe.config
+D:\Коржилов\Матющенко\Практическая №1\SupermarketApp\bin\Debug\SupermarketApp.exe
+D:\Коржилов\Матющенко\Практическая №1\SupermarketApp\bin\Debug\SupermarketApp.pdb
+D:\Коржилов\Матющенко\Практическая №1\SupermarketApp\obj\Debug\SupermarketApp.csproj.AssemblyReference.cache
+D:\Коржилов\Матющенко\Практическая №1\SupermarketApp\obj\Debug\SupermarketApp.Properties.Resources.resources
+D:\Коржилов\Матющенко\Практическая №1\SupermarketApp\obj\Debug\SupermarketApp.SpisokProduct.resources
+D:\Коржилов\Матющенко\Практическая №1\SupermarketApp\obj\Debug\SupermarketApp.csproj.GenerateResource.cache
+D:\Коржилов\Матющенко\Практическая №1\SupermarketApp\obj\Debug\SupermarketApp.csproj.CoreCompileInputs.cache
+D:\Коржилов\Матющенко\Практическая №1\SupermarketApp\obj\Debug\SupermarketApp.exe
+D:\Коржилов\Матющенко\Практическая №1\SupermarketApp\obj\Debug\SupermarketApp.pdb
+D:\maksim\estudio\Матющенко\Практические\PR1\SupermarketApp\bin\Debug\SupermarketApp.exe.config
+D:\maksim\estudio\Матющенко\Практические\PR1\SupermarketApp\bin\Debug\SupermarketApp.exe
+D:\maksim\estudio\Матющенко\Практические\PR1\SupermarketApp\bin\Debug\SupermarketApp.pdb
+D:\maksim\estudio\Матющенко\Практические\PR1\SupermarketApp\obj\Debug\SupermarketApp.csproj.AssemblyReference.cache
+D:\maksim\estudio\Матющенко\Практические\PR1\SupermarketApp\obj\Debug\SupermarketApp.exe.config
+D:\maksim\estudio\Матющенко\Практические\PR1\SupermarketApp\obj\Debug\SupermarketApp.Properties.Resources.resources
+D:\maksim\estudio\Матющенко\Практические\PR1\SupermarketApp\obj\Debug\SupermarketApp.SpisokProduct.resources
+D:\maksim\estudio\Матющенко\Практические\PR1\SupermarketApp\obj\Debug\SupermarketApp.csproj.GenerateResource.cache
+D:\maksim\estudio\Матющенко\Практические\PR1\SupermarketApp\obj\Debug\SupermarketApp.csproj.CoreCompileInputs.cache
+D:\maksim\estudio\Матющенко\Практические\PR1\SupermarketApp\obj\Debug\SupermarketApp.exe
+D:\maksim\estudio\Матющенко\Практические\PR1\SupermarketApp\obj\Debug\SupermarketApp.pdb
+C:\Users\xotgo\Desktop\ISRPO\PR1\SupermarketApp\bin\Debug\SupermarketApp.exe.config
+C:\Users\xotgo\Desktop\ISRPO\PR1\SupermarketApp\bin\Debug\SupermarketApp.exe
+C:\Users\xotgo\Desktop\ISRPO\PR1\SupermarketApp\bin\Debug\SupermarketApp.pdb
+C:\Users\xotgo\Desktop\ISRPO\PR1\SupermarketApp\obj\Debug\SupermarketApp.csproj.AssemblyReference.cache
+C:\Users\xotgo\Desktop\ISRPO\PR1\SupermarketApp\obj\Debug\SupermarketApp.exe.config
+C:\Users\xotgo\Desktop\ISRPO\PR1\SupermarketApp\obj\Debug\SupermarketApp.Properties.Resources.resources
+C:\Users\xotgo\Desktop\ISRPO\PR1\SupermarketApp\obj\Debug\SupermarketApp.SpisokProduct.resources
+C:\Users\xotgo\Desktop\ISRPO\PR1\SupermarketApp\obj\Debug\SupermarketApp.csproj.GenerateResource.cache
+C:\Users\xotgo\Desktop\ISRPO\PR1\SupermarketApp\obj\Debug\SupermarketApp.csproj.CoreCompileInputs.cache
+C:\Users\xotgo\Desktop\ISRPO\PR1\SupermarketApp\obj\Debug\SupermarketApp.exe
+C:\Users\xotgo\Desktop\ISRPO\PR1\SupermarketApp\obj\Debug\SupermarketApp.pdb
